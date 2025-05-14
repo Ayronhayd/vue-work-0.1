@@ -2,9 +2,6 @@
   <div class="link_container">
     <router-link class="link" to="/">В меню</router-link>
   </div>
-  <div class="container">
-    <slot />
-  </div>
 </template>
 
 <style lang="scss" scoped>
