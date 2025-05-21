@@ -586,5 +586,4 @@ const getImage = (image) => {
     background-color: $pink-200;
   }
 }
-
 </style>
